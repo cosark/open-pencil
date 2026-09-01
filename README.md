@@ -247,9 +247,12 @@ OpenPencil is the alternative: open source (MIT), reads .fig files natively, eve
 
 See the [roadmap](https://openpencil.dev/development/roadmap) for product direction and current Figma compatibility gaps.
 
-## Deploy
+## Deployment
+
+One-click deployment providers: 
 
 [![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/open-pencil/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fopen-pencil%2Fopen-pencil)
 
 ## Contributing
 
