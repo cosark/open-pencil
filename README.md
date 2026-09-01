@@ -251,7 +251,7 @@ See the [roadmap](https://openpencil.dev/development/roadmap) for product direct
 
 One-click deployment providers: 
 
-[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/open-pencil/)
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/OpenPencil/)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fopen-pencil%2Fopen-pencil)
 
 ## Contributing
